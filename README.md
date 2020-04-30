@@ -1,2 +1,2 @@
 # My-First-Program
-was written in ATARI BASIC!
+was written in ATARI BASIC
