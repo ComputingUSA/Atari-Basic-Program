@@ -1,1 +1,1 @@
-I started programming in 8-bit ATARI BASIC in the mid 1980's
+I started programming in 8-bit ATARI BASIC back in the 20th century
